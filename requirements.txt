@@ -15,4 +15,4 @@ sqlparse==0.2.4
 tzdata==2022.1
 whitenoise==6.1.0
 wincertstore==0.2
-python manage.py collectstatic
+collectstatic
